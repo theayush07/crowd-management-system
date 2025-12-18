@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://jainkhushi3.github.io/crowd-management-system/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
